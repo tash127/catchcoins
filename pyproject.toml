@@ -1,0 +1,4 @@
+[project]
+name = "catchcoins"
+version = "1.0.0"
+description = "Gives currency every time a countryball is caught"
