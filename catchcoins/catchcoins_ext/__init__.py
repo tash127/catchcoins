@@ -34,7 +34,7 @@ def give_coin(sender, instance, created, **kwargs):
         log.exception("Could not give catch reward")
 
 
-class Scudettini(commands.GroupCog, name="scudettini"):
+class Scudettini(commands.GroupCog, name="earn-coins"):
     """Currency commands."""
 
     def __init__(self, bot):
